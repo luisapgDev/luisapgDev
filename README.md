@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Tecnologías que manejo  
+## Tecnologías que manejo  
 
 
 <p align="center">
