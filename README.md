@@ -1,5 +1,5 @@
 
-## 💫 Sobre mí  
+## Sobre mí 💫 
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**, actualmente especializándome en **Ciberseguridad en Tecnologías de la Información**.  
 
