@@ -1,5 +1,5 @@
 
-## Sobre mí 💫 
+## Sobre mí
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**, actualmente especializándome en **Ciberseguridad en Tecnologías de la Información**.  
 
@@ -19,5 +19,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,windows,linux,bash,debian,eclipse,vscode,git,github,jquery,kali,ubuntu)](https://skillicons.dev)
 
 
-🌟 *“Cada línea de código es una oportunidad para aprender algo nuevo.”*
+ *“Cada línea de código es una oportunidad para aprender algo nuevo.”*
 
