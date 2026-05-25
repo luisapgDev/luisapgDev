@@ -1,7 +1,7 @@
 
 ## Sobre mí
 
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**, actualmente especializándome en **Ciberseguridad en Tecnologías de la Información**.  
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Web**, especializada en **Ciberseguridad en Tecnologías de la Información**.  
 
 💻 Apasionada por el desarrollo web seguro, el aprendizaje continuo y la creación de proyectos que aporten valor.  
 
